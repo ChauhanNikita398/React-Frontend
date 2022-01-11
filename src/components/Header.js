@@ -5,7 +5,7 @@ const Header = () => {
         <div className ="header">
           <a href="mailto:info@bytequests.com" >
             
-            info@bytequests.com
+             info@bytequests.com
           </a>
 
           <a href="tel: +919711999770" >
